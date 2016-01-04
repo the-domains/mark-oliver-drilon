@@ -1,0 +1,28 @@
+name: Mark Oliver Drilon
+favicon: null
+layout_spectrum: 0.71985
+typography_spectrum: 0.99496
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8039150985423476
+  lightness: 0.9692809896077961
+  saturation: 1
+  rhythmicContrast: 0.12333426321856678
+purpose: []
