@@ -1,4 +1,4 @@
-name: Mark Oliver Drilon
+name: Drillionaire
 favicon: null
 layout_spectrum: 0.71985
 typography_spectrum: 0.99496
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.8039150985423476
+    - '#ffffff'
+    - '#053f64'
+    - '#ef542b'
+    - '#fec936'
+    - '#4ebe68'
+  brandStrength: 0.5
   lightness: 0.9692809896077961
   saturation: 1
   rhythmicContrast: 0.12333426321856678
