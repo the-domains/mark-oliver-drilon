@@ -1,19 +1,4 @@
-name: Drillionaire
-favicon: null
-layout_spectrum: 0.89
 typography_spectrum: 0.99496
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.89
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Drillionaire
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Hello World.
 purpose: []
